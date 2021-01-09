@@ -15,3 +15,8 @@ The task was to "Review and debug the project" I fixed 99%. The 1% was "error CS
 
 ![Debug the App](https://user-images.githubusercontent.com/66517969/103835327-0343f080-5097-11eb-9e78-14b9171c52e3.png)
 The project can be viewed at https://play.unity.com/mg/other/debug-the-app-70
+
+
+
+### There are no projects for the next week
+This week on Unity learn I am going through Mission 3. Its name is "Programming Systems and Architecture" The first block is "Intermediate Scripting" Fundamental tools for programming, but I can't imagine what to use them for yet.
