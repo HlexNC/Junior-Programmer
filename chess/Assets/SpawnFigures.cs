@@ -4,10 +4,9 @@ using UnityEngine;
 using ChessField;
 using FigureNamespace;
 public class SpawnFigures : MonoBehaviour {
-    public GameObject[] piece;
+    [SerializeField] Figure figure;
     private void Start() {
-        Figure figure = new Figure();
-        Instantiate(piece[0]);
+        Instantiate(figure);
         if (figure.color == ColorOfFigure.Black) {
             switch(figure.typeOfFigure) {
                 case TypeOfFigure.King:
