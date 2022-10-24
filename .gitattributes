@@ -1,0 +1,2 @@
+*.hlsl -linguist-detectable
+*.shader -linguist-detectable
